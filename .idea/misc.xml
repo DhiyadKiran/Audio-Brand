@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/drawable-v24/ic_baseline_arrow_forward_ios_24.xml" value="0.207" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.207" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/drawable/BackArrow.xml" value="0.207" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/drawable/account.xml" value="0.207" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/drawable/arrow_forward.xml" value="0.207" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/drawable/bg_color.xml" value="0.207" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/drawable/bg_shape.xml" value="0.207" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/drawable/border.xml" value="0.207" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/drawable/home_brand_sample.xml" value="0.207" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/drawable/ic_baseline_keyboard_backspace_24.xml" value="0.207" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/drawable/ic_heart_unselected.xml" value="0.207" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/drawable/ic_home.xml" value="0.207" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/drawable/ic_sell.xml" value="0.207" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/drawable/ic_shopping_bag.xml" value="0.207" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/drawable/profile.xml" value="0.207" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/drawable/rectangle_bg.xml" value="0.207" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/layout/activity_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/layout/fragment_account.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/layout/fragment_favorite.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/layout/fragment_home.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/layout/fragment_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/layout/fragment_product_detail.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/layout/fragment_shop.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/layout/fragment_splash.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/layout/fragment_start_screen.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/layout/home_best_product_sample.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/layout/home_brand_sample.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/layout/home_popular_product_sample.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/layout/shopping_product_sample.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/LENOVO SLIM/AndroidStudioProjects/AudioBrand/app/src/main/res/menu/bottom_nav_menu.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8 (30)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
